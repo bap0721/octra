@@ -1,8 +1,7 @@
 # Octra Public Testnet
 
 ## Join Discord
-https://discord.gg/6P5n696s
-
+https://discord.gg
 ---
 ## Install dependecies
 Install & Update Packages:
