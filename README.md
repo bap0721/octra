@@ -1,6 +1,7 @@
 # Octra Public Testnet
 **3. Start CLI** Daily
 ```bash
+cd octra_pre_client
 python3 -m venv venv
 source venv/bin/activate
 python3 cli.py
