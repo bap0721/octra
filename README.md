@@ -1,4 +1,10 @@
 # Octra Public Testnet
+**3. Start CLI** Daily
+```bash
+python3 -m venv venv
+source venv/bin/activate
+python3 cli.py
+```
 
 ## Join Discord
 https://discord.gg
